@@ -1,0 +1,291 @@
+---
+title: "AI Boot Camp 2023"
+subtitle: "Sponsored and hosted by <a href='https://mpac-group.com/' target='_blank' style='color: #ffd6e5; font-weight: bold;'>MPAC</a>"
+author: ""
+format:
+  html:
+    toc: true
+    number-sections: false
+    include-in-header:
+      - header.html
+    include-after-body:
+      scripts.html
+title-block-banner: "#e50055"
+editor: visual
+---
+
+```{=html}
+<div class="card mb-5" style="max-width: 780px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="logo.png" class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Welcome @ AIBC2023!</h5>
+        <p class="card-text">Welcome to the AI Bootcamp 2023 edition! Get ready to unlock your AI talents and embark on a transformative journey towards becoming a professional in the field. Our bootcamp offers live workshops with industry experts, hands-on labs, industry-relevant projects, and masterclasses by HAN professors. Connect with peers, demonstrate your AI abilities, and follow your personal interests. Join us to discover the world of AI!</p>
+        <p class="card-text"><small class="text-muted">This year's edition of the AIBootcamp is sponsored and hosted by <a href="https://mpac-group.com/" target="_blank">MPAC</a></small></p>
+      </div>
+    </div>
+  </div>
+</div>
+```
+## Challenges
+
+Quality monitoring:
+
+-   Real-time data from servo motors, sensors, air, etc., is used to monitor product quality without the need for a camera system. For example, detecting misaligned flaps, products that are partially protruding, crooked or dented cartons, etc.
+
+-   Combining data from various sources such as service data, Industry 4.0 machine measurement data, field and floor technicians' knowledge, and supplier data to optimize maintenance schedules and prevent equipment failures (predictive maintenance)
+
+Process improvements:
+
+-   Analyze project data, costs, hours, delivery dates, etc., to identify opportunities for reducing lead times and costs.
+
+-   Increase eficiency of machine pre-deployment testing through test automation.
+
+Product enhancements:
+
+-   Utilizing algorithms to explore multiple possibilities for product positioning.
+
+-   Adjusting the control system based on real-time data. - When products enter the transport belt randomly, using algorithms to determine the most efficient formation for optimal throughput.
+
+## Experts
+
+```{=html}
+<div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C4D03AQGwY2Ah6Hpipg/profile-displayphoto-shrink_200_200/0/1614851181478?e=1694044800&v=beta&t=da7VdjTPIit98U4Tc4rOdQNZJcG0zvxSfuSkedbPurw" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Frank Jeurissen</h5>
+        <p class="card-text">Global Account Manager at Mpac Group PLC</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C5603AQHyf5ar6QXyvg/profile-displayphoto-shrink_200_200/0/1586935321160?e=1694044800&v=beta&t=G3bphokuyjfUjKehmwEUnSea3OB3fHI_QvL_D3XnzZ4" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Witek ten Hove</h5>
+        <p class="card-text">Owner at Ten Hove Business Data Solutions | Developing Data Products for SMEs | Delivering Course Programmes on Data Technologies</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C4D03AQGVhgGATniLyw/profile-displayphoto-shrink_200_200/0/1516283132623?e=1694044800&v=beta&t=cRa7yBfW6esdM329j-Bz3f07UBZqYuq8-YpvCmXZeR8" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Oliver Ntenje</h5>
+        <p class="card-text">Coordinator Minor Data Driven Decision Making</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C5603AQH_sRjTZ7MUFg/profile-displayphoto-shrink_200_200/0/1516533415339?e=1694044800&v=beta&t=0Qwh2avdI-SxTXqqWOkthpsUBCR3Gwa5fmVOQXoHhuA" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Mathijs van der Vegt</h5>
+        <p class="card-text">Automation Specialist at MVR Automatisering</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C5603AQHTDrrc_zwh5w/profile-displayphoto-shrink_200_200/0/1540828153516?e=1694044800&v=beta&t=TVdRtf6LhuIX8KgDPoKIwnO7QJLdzj5YXw7nbFtvmH4" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Guus Paris</h5>
+        <p class="card-text">Applying robotics&AI</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C5603AQGU3dSAtIqseA/profile-displayphoto-shrink_200_200/0/1517721707631?e=1694044800&v=beta&t=Nfv4_bywLjcK_sXCun2O_WS3GTz4NQbnwh3u8q7v-d4" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Thijs Brilleman</h5>
+        <p class="card-text">Smart Manufacturing & Robotics professional</p>
+      </div>
+    </div>
+  </div>
+</div
+```
+## Resources
+
+The following material highlights notable advancements in AI technology within the context of industrial manufacturing. It provides a solid foundation to initiate your journey of exploration and discovery on this topic.
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/XPVC4IyRTG8" allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Inside the Lab: Taking Atlas From Sim to Scaffold</h5>
+    <p class="card-text">How does Atlas recognize and interact with objects? How do we develop new Atlas behaviors? Why is manipulation important for the future of robotics?
+
+Join our team in the Atlas lab to discover the answers to these questions and more. Learn more about how Atlas makes decisions about its environment on our <a href="https://www.bostondynamics.com/resources/blog/picking-momentum" target="_blank">blog: https://www.bostondynamics.com/resour...</a>.</p>
+  </div>
+</div>
+
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/KswXd7tnJko" allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Data analytics for the era of AI</h5>
+    <p class="card-text">Building an end-to-end analytics project in MS Fabric. Creating a data warehouse, selecting connectors, mapping columns, and replicating data. Fabric provides low-code experiences, allowing users to visually build and model their data without writing code. The integration of fabric with Power BI enables collaborative data modeling, relationship creation, and report building within a single integrated experience. More on MS Fabric <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank">here</a>.</p>
+  </div>
+</div>
+
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/FE88OOUBonQ" allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Visual Prompting Livestream With Andrew Ng</h5>
+    <p class="card-text">Landing AI’s Visual Prompting capability is an innovative approach that takes text prompting, used in applications such as ChatGPT, to computer vision. The impressive part? With only a few clicks, you can transform an unlabeled dataset into a deployed model in mere minutes. This results in a significantly simplified, faster, and more user-friendly workflow for applying computer vision. More on Visual Prompting: <a href="https://landing.ai/what-is-visual-prompting/" target="_blank">here</a>.</p>
+  </div>
+</div>
+
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/dBEd8kY4gnA" allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Visual Blocks: Ridiculously rapid ML/AI prototyping and deployment to production</h5>
+    <p class="card-text">Visual Blocks from Google is an open source graphical programming framework for rapid prototyping and experimentation of production ideas powered by machine learning. It enables developers and decision-makers alike to work together to solve problems through powerful reusable building blocks, iterate, and then deploy with ease for all to try. You can build an end to end ML pipeline to share with your team in minutes! More on Visual Blocks: <a href="https://visualblocks.withgoogle.com/#/" target="_blank">here</a>.</p>
+  </div>
+</div>
+```
+## Programme
+
+::: panel-tabset
+## Day 1 {#sec-day-1}
+
+```{=html}
+
+<table class="table table-responsive table-hover" id="day-1">
+  <thead>
+    <tr>
+      <th scope="col">Time</th>
+      <th scope="col">Activity</th>
+      <th scope="col">Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">9:30h</th>
+      <td>Receptions and welcome</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">10:15h</th>
+      <td>Company tour</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">11:00h</th>
+      <td>Introduction to challenges and programme</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">11:30h</th>
+      <td>Teams introduction</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">12:30h</th>
+      <td>Lunch</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">13:30h</th>
+      <td>Masterclasses</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">15:00h</th>
+      <td>Masterclasses</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">16:30h</th>
+      <td>Experiments and exploration</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">17:30h</th>
+      <td>Drinks and social</td>
+      <td>Text</td>
+    </tr>
+  </tbody>
+</table>
+```
+## Day 2 {#sec-day-2}
+
+```{=html}
+
+<table class="table table-responsive table-hover" id="day-2">
+  <thead>
+    <tr>
+      <th scope="col">Time</th>
+      <th scope="col">Activity</th>
+      <th scope="col">Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">9:30h</th>
+      <td>Start</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">10:00h</th>
+      <td>Plan and experiment</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">11:00h</th>
+      <td>Build</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">12:30h</th>
+      <td>Lunch</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">13:30h</th>
+      <td>Share</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">15:00h</th>
+      <td>Pair</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">16:30h</th>
+      <td>Present</td>
+      <td>Text</td>
+    </tr>
+    <tr>
+      <th scope="row">17:30h</th>
+      <td>Drinks and social</td>
+      <td>Text</td>
+    </tr>
+  </tbody>
+</table>
+```
+:::
+
+## Dates and location
+
+```{=html}
+<div class="card m-5 w-75">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2466.457796196083!2d5.746991312566909!3d51.81606717176784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c70694914fd11f%3A0xf0c0f225beee3dd0!2sMpac%20Langen!5e0!3m2!1sen!2snl!4v1688379795450!5m2!1sen!2snl" width=100% height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <div class="card-body">
+    <p class="card-text">AIBC2023 will be held on October 12 and 13 at MPAC Wijchen.</p>
+  </div>
+</div>
+```
