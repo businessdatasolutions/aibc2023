@@ -220,7 +220,6 @@ Join our team in the Atlas lab to discover the answers to these questions and mo
     </tr>
   </tbody>
 </table>
-
 ```
 ## Day 2 {#sec-day-2}
 
