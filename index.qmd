@@ -50,113 +50,6 @@ Product enhancements:
 
 -   Adjusting the control system based on real-time data. - When products enter the transport belt randomly, using algorithms to determine the most efficient formation for optimal throughput.
 
-## Experts
-
-```{=html}
-<div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
-  <div class="col">
-    <div class="card h-100">
-      <img src="https://media.licdn.com/dms/image/C4D03AQGwY2Ah6Hpipg/profile-displayphoto-shrink_200_200/0/1614851181478?e=1694044800&v=beta&t=da7VdjTPIit98U4Tc4rOdQNZJcG0zvxSfuSkedbPurw" class="img-thumbnail card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Frank Jeurissen</h5>
-        <p class="card-text">Global Account Manager at Mpac Group PLC</p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <img src="https://media.licdn.com/dms/image/C5603AQHyf5ar6QXyvg/profile-displayphoto-shrink_200_200/0/1586935321160?e=1694044800&v=beta&t=G3bphokuyjfUjKehmwEUnSea3OB3fHI_QvL_D3XnzZ4" class="img-thumbnail card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Witek ten Hove</h5>
-        <p class="card-text">Owner at Ten Hove Business Data Solutions | Developing Data Products for SMEs | Delivering Course Programmes on Data Technologies</p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <img src="https://media.licdn.com/dms/image/C4D03AQGVhgGATniLyw/profile-displayphoto-shrink_200_200/0/1516283132623?e=1694044800&v=beta&t=cRa7yBfW6esdM329j-Bz3f07UBZqYuq8-YpvCmXZeR8" class="img-thumbnail card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Oliver Ntenje</h5>
-        <p class="card-text">Coordinator Minor Data Driven Decision Making</p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <img src="https://media.licdn.com/dms/image/C5603AQH_sRjTZ7MUFg/profile-displayphoto-shrink_200_200/0/1516533415339?e=1694044800&v=beta&t=0Qwh2avdI-SxTXqqWOkthpsUBCR3Gwa5fmVOQXoHhuA" class="img-thumbnail card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Mathijs van der Vegt</h5>
-        <p class="card-text">Automation Specialist at MVR Automatisering</p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <img src="https://media.licdn.com/dms/image/C5603AQHTDrrc_zwh5w/profile-displayphoto-shrink_200_200/0/1540828153516?e=1694044800&v=beta&t=TVdRtf6LhuIX8KgDPoKIwnO7QJLdzj5YXw7nbFtvmH4" class="img-thumbnail card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Guus Paris</h5>
-        <p class="card-text">Applying robotics&AI</p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <img src="https://media.licdn.com/dms/image/C5603AQGU3dSAtIqseA/profile-displayphoto-shrink_200_200/0/1517721707631?e=1694044800&v=beta&t=Nfv4_bywLjcK_sXCun2O_WS3GTz4NQbnwh3u8q7v-d4" class="img-thumbnail card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Thijs Brilleman</h5>
-        <p class="card-text">Smart Manufacturing & Robotics professional</p>
-      </div>
-    </div>
-  </div>
-</div
-```
-## Resources
-
-The following material highlights notable advancements in AI technology within the context of industrial manufacturing. It provides a solid foundation to initiate your journey of exploration and discovery on this topic.
-
-```{=html}
-<div class="card m-5 w-75">
-<div class="ratio ratio-16x9">
-  <iframe src="https://www.youtube.com/embed/XPVC4IyRTG8" allowfullscreen frameborder=0></iframe>
-</div>
-  <div class="card-body">
-    <h5 class="card-title">Inside the Lab: Taking Atlas From Sim to Scaffold</h5>
-    <p class="card-text">How does Atlas recognize and interact with objects? How do we develop new Atlas behaviors? Why is manipulation important for the future of robotics?
-
-Join our team in the Atlas lab to discover the answers to these questions and more. Learn more about how Atlas makes decisions about its environment on our <a href="https://www.bostondynamics.com/resources/blog/picking-momentum" target="_blank">blog: https://www.bostondynamics.com/resour...</a>.</p>
-  </div>
-</div>
-
-<div class="card m-5 w-75">
-<div class="ratio ratio-16x9">
-  <iframe src="https://www.youtube.com/embed/KswXd7tnJko" allowfullscreen frameborder=0></iframe>
-</div>
-  <div class="card-body">
-    <h5 class="card-title">Data analytics for the era of AI</h5>
-    <p class="card-text">Building an end-to-end analytics project in MS Fabric. Creating a data warehouse, selecting connectors, mapping columns, and replicating data. Fabric provides low-code experiences, allowing users to visually build and model their data without writing code. The integration of fabric with Power BI enables collaborative data modeling, relationship creation, and report building within a single integrated experience. More on MS Fabric <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank">here</a>.</p>
-  </div>
-</div>
-
-<div class="card m-5 w-75">
-<div class="ratio ratio-16x9">
-  <iframe src="https://www.youtube.com/embed/FE88OOUBonQ" allowfullscreen frameborder=0></iframe>
-</div>
-  <div class="card-body">
-    <h5 class="card-title">Visual Prompting Livestream With Andrew Ng</h5>
-    <p class="card-text">Landing AI’s Visual Prompting capability is an innovative approach that takes text prompting, used in applications such as ChatGPT, to computer vision. The impressive part? With only a few clicks, you can transform an unlabeled dataset into a deployed model in mere minutes. This results in a significantly simplified, faster, and more user-friendly workflow for applying computer vision. More on Visual Prompting: <a href="https://landing.ai/what-is-visual-prompting/" target="_blank">here</a>.</p>
-  </div>
-</div>
-
-<div class="card m-5 w-75">
-<div class="ratio ratio-16x9">
-  <iframe src="https://www.youtube.com/embed/dBEd8kY4gnA" allowfullscreen frameborder=0></iframe>
-</div>
-  <div class="card-body">
-    <h5 class="card-title">Visual Blocks: Ridiculously rapid ML/AI prototyping and deployment to production</h5>
-    <p class="card-text">Visual Blocks from Google is an open source graphical programming framework for rapid prototyping and experimentation of production ideas powered by machine learning. It enables developers and decision-makers alike to work together to solve problems through powerful reusable building blocks, iterate, and then deploy with ease for all to try. You can build an end to end ML pipeline to share with your team in minutes! More on Visual Blocks: <a href="https://visualblocks.withgoogle.com/#/" target="_blank">here</a>.</p>
-  </div>
-</div>
-```
 ## Programme
 
 ::: panel-tabset
@@ -278,6 +171,115 @@ Join our team in the Atlas lab to discover the answers to these questions and mo
 </table>
 ```
 :::
+
+## Experts
+
+```{=html}
+<div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C4D03AQGwY2Ah6Hpipg/profile-displayphoto-shrink_200_200/0/1614851181478?e=1694044800&v=beta&t=da7VdjTPIit98U4Tc4rOdQNZJcG0zvxSfuSkedbPurw" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Frank Jeurissen</h5>
+        <p class="card-text">Global Account Manager at Mpac Group PLC</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C5603AQHyf5ar6QXyvg/profile-displayphoto-shrink_200_200/0/1586935321160?e=1694044800&v=beta&t=G3bphokuyjfUjKehmwEUnSea3OB3fHI_QvL_D3XnzZ4" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Witek ten Hove</h5>
+        <p class="card-text">Owner at Ten Hove Business Data Solutions | Developing Data Products for SMEs | Delivering Course Programmes on Data Technologies</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C4D03AQGVhgGATniLyw/profile-displayphoto-shrink_200_200/0/1516283132623?e=1694044800&v=beta&t=cRa7yBfW6esdM329j-Bz3f07UBZqYuq8-YpvCmXZeR8" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Oliver Ntenje</h5>
+        <p class="card-text">Coordinator Minor Data Driven Decision Making</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C5603AQH_sRjTZ7MUFg/profile-displayphoto-shrink_200_200/0/1516533415339?e=1694044800&v=beta&t=0Qwh2avdI-SxTXqqWOkthpsUBCR3Gwa5fmVOQXoHhuA" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Mathijs van der Vegt</h5>
+        <p class="card-text">Automation Specialist at MVR Automatisering</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C5603AQHTDrrc_zwh5w/profile-displayphoto-shrink_200_200/0/1540828153516?e=1694044800&v=beta&t=TVdRtf6LhuIX8KgDPoKIwnO7QJLdzj5YXw7nbFtvmH4" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Guus Paris</h5>
+        <p class="card-text">Applying robotics&AI</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C5603AQGU3dSAtIqseA/profile-displayphoto-shrink_200_200/0/1517721707631?e=1694044800&v=beta&t=Nfv4_bywLjcK_sXCun2O_WS3GTz4NQbnwh3u8q7v-d4" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Thijs Brilleman</h5>
+        <p class="card-text">Smart Manufacturing & Robotics professional</p>
+      </div>
+    </div>
+  </div>
+</div
+```
+
+## Resources
+
+The following material highlights notable advancements in AI technology within the context of industrial manufacturing. It provides a solid foundation to initiate your journey of exploration and discovery on this topic.
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/XPVC4IyRTG8" allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Inside the Lab: Taking Atlas From Sim to Scaffold</h5>
+    <p class="card-text">How does Atlas recognize and interact with objects? How do we develop new Atlas behaviors? Why is manipulation important for the future of robotics?
+
+Join our team in the Atlas lab to discover the answers to these questions and more. Learn more about how Atlas makes decisions about its environment on our <a href="https://www.bostondynamics.com/resources/blog/picking-momentum" target="_blank">blog: https://www.bostondynamics.com/resour...</a>.</p>
+  </div>
+</div>
+
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/KswXd7tnJko" allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Data analytics for the era of AI</h5>
+    <p class="card-text">Building an end-to-end analytics project in MS Fabric. Creating a data warehouse, selecting connectors, mapping columns, and replicating data. Fabric provides low-code experiences, allowing users to visually build and model their data without writing code. The integration of fabric with Power BI enables collaborative data modeling, relationship creation, and report building within a single integrated experience. More on MS Fabric <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank">here</a>.</p>
+  </div>
+</div>
+
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/FE88OOUBonQ" allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Visual Prompting Livestream With Andrew Ng</h5>
+    <p class="card-text">Landing AI’s Visual Prompting capability is an innovative approach that takes text prompting, used in applications such as ChatGPT, to computer vision. The impressive part? With only a few clicks, you can transform an unlabeled dataset into a deployed model in mere minutes. This results in a significantly simplified, faster, and more user-friendly workflow for applying computer vision. More on Visual Prompting: <a href="https://landing.ai/what-is-visual-prompting/" target="_blank">here</a>.</p>
+  </div>
+</div>
+
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/dBEd8kY4gnA" allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Visual Blocks: Ridiculously rapid ML/AI prototyping and deployment to production</h5>
+    <p class="card-text">Visual Blocks from Google is an open source graphical programming framework for rapid prototyping and experimentation of production ideas powered by machine learning. It enables developers and decision-makers alike to work together to solve problems through powerful reusable building blocks, iterate, and then deploy with ease for all to try. You can build an end to end ML pipeline to share with your team in minutes! More on Visual Blocks: <a href="https://visualblocks.withgoogle.com/#/" target="_blank">here</a>.</p>
+  </div>
+</div>
+```
 
 ## Dates and location
 
