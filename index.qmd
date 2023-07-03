@@ -175,7 +175,7 @@ Join our team in the Atlas lab to discover the answers to these questions and mo
   <tbody>
     <tr>
       <th scope="row">9:30h</th>
-      <td>Receptions and welcome</td>
+      <td>Reception and welcome</td>
       <td>Text</td>
     </tr>
     <tr>
