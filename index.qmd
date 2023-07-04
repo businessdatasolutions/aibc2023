@@ -279,6 +279,16 @@ Join our team in the Atlas lab to discover the answers to these questions and mo
     <p class="card-text">Visual Blocks from Google is an open source graphical programming framework for rapid prototyping and experimentation of production ideas powered by machine learning. It enables developers and decision-makers alike to work together to solve problems through powerful reusable building blocks, iterate, and then deploy with ease for all to try. You can build an end to end ML pipeline to share with your team in minutes! More on Visual Blocks: <a href="https://visualblocks.withgoogle.com/#/" target="_blank">here</a>.</p>
   </div>
 </div>
+
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/HDRvZ_BYd08" allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Simple ESP32-CAM Object Detection</h5>
+    <p class="card-text">Train an ESP32-CAM for Object Detection using a free Edge Impulse account. All without writing any code! Article with full instructions: <a href="https://dronebotworkshop.com/esp32-object-detect/" target="_blank">https://dronebotworkshop.com/esp32-ob...</a>.</p>
+  </div>
+</div>
 ```
 
 ## Dates and location
