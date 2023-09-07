@@ -148,13 +148,13 @@ Product enhancements:
 <div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
   <div class="col">
     <div class="card h-100 d-flex flex-column">
-      <img src="https://media.licdn.com/dms/image/C4D03AQGwY2Ah6Hpipg/profile-displayphoto-shrink_200_200/0/1614851181478?e=1694044800&v=beta&t=da7VdjTPIit98U4Tc4rOdQNZJcG0zvxSfuSkedbPurw" class="img-thumbnail card-img-top" alt="...">
+      <img src="frank.jpg" class="img-thumbnail card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Frank Jeurissen</h5>
         <p class="card-text">Global Account Manager at Mpac Group PLC</p>
       </div>
       <div class="card-footer">
-      <a href="https://www.linkedin.com/in/frank-jeurissen-a8019729/" target="_blank" title="LinkedIn" class="btn btn-linkedin btn-lg mt-auto"><i class="bi bi-linkedin"></i> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/frank-jeurissen-a8019729/" target="_blank" title="LinkedIn" class="btn btn-linkedin"><i class="bi bi-linkedin"></i> LinkedIn</a>
       </div>
     </div>
   </div>
@@ -167,46 +167,46 @@ Product enhancements:
         <p class="card-text">Automation Specialist at MVR Automatisering</p>
       </div>
       <div class="card-footer">
-      <a href="https://www.linkedin.com/in/mathijs-van-der-vegt-26352b33/" target="_blank" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="bi bi-linkedin"></i> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/mathijs-van-der-vegt-26352b33/" target="_blank" title="LinkedIn" class="btn btn-linkedin"><i class="bi bi-linkedin"></i> LinkedIn</a>
       </div>
     </div>
   </div>
   
   <div class="col" id="witektenhove">
     <div class="card h-100">
-      <img src="https://media.licdn.com/dms/image/C5603AQHyf5ar6QXyvg/profile-displayphoto-shrink_200_200/0/1586935321160?e=1694044800&v=beta&t=G3bphokuyjfUjKehmwEUnSea3OB3fHI_QvL_D3XnzZ4" class="img-thumbnail card-img-top" alt="...">
+      <img src="witek.jpg" class="img-thumbnail card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Witek ten Hove</h5>
         <p class="card-text">Owner at Ten Hove Business Data Solutions</p>
       </div>
       <div class="card-footer">
-      <a href="https://www.linkedin.com/in/witektenhove/" target="_blank" title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="bi bi-linkedin"></i> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/witektenhove/" target="_blank" title="LinkedIn" class="btn btn-linkedin"><i class="bi bi-linkedin"></i> LinkedIn</a>
       </div>
     </div>
   </div>
   
   <div class="col">
     <div class="card h-100">
-      <img src="https://media.licdn.com/dms/image/C4D03AQGVhgGATniLyw/profile-displayphoto-shrink_200_200/0/1516283132623?e=1694044800&v=beta&t=cRa7yBfW6esdM329j-Bz3f07UBZqYuq8-YpvCmXZeR8" class="img-thumbnail card-img-top" alt="...">
+      <img src="oliver.jpg" class="img-thumbnail card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Oliver Ntenje</h5>
         <p class="card-text">Coordinator Minor Data Driven Decision Making</p>
       </div>
       <div class="card-footer">
-      <a href="https://www.linkedin.com/in/oliver-j-ntenje-aa01221/" target="_blank"  title="LinkedIn" class="btn btn-linkedin btn-lg"><i class="bi bi-linkedin"></i> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/oliver-j-ntenje-aa01221/" target="_blank"  title="LinkedIn" class="btn btn-linkedin"><i class="bi bi-linkedin"></i> LinkedIn</a>
       </div>
     </div>
   </div>
   
   <div class="col">
     <div class="card h-100">
-      <img src="https://media.licdn.com/dms/image/C5603AQEqJndBvPFGYQ/profile-displayphoto-shrink_800_800/0/1516885057461?e=1694044800&v=beta&t=0m_glmE8S9HA_XqDQfxAUPxxGT3KkBpEZ72P-ncFLqA" class="img-thumbnail card-img-top" alt="...">
+      <img src="john.png" class="img-thumbnail card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">John Smits</h5>
         <p class="card-text">Owner at FinAction Adviseurs</p>
       </div>
       <div class="card-footer">
-      <a href="https://www.linkedin.com/in/johnsmits1971/" target="_blank" title="LinkedIn" class="btn btn-linkedin btn-lg mt-auto"><i class="bi bi-linkedin"></i> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/johnsmits1971/" target="_blank" title="LinkedIn" class="btn btn-linkedin"><i class="bi bi-linkedin"></i> LinkedIn</a>
       </div>
     </div>
   </div>
