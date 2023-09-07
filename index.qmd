@@ -109,8 +109,8 @@ Meet us on Thursday November 9, 2023 at Mpac Langen in Wijchen.
     </tr>
     <tr>
       <th scope="row">Modeling complex systems</th>
-      <td><a href="#witektenhove">Witek ten Hove</a> is a Data Scientist and owner of Ten Hove Business Data Solutions. He serves as a Senior Lecturer and Researcher at Hogeschool van Arnhem en Nijmegen. Described as a blend of educator, innovator, and community builder, Witek seamlessly combines academic rigor with real-world application and collaboration. He has a rich background in Web Development, Machine Learning, AI, and Quantitative Data Analysis</td>
-      <td>Explore the Realm of Computer Simulation. Navigate the vast landscape of simulation, uncover its myriad applications, and comprehend its crucial contribution to data-driven decision-making. This is your chance to dive beneath the surface and truly understand the power of simulation in today's data-driven world.</td>
+      <td><a href="#witektenhove">Witek ten Hove</a> is a Data Scientist and owner of Ten Hove Business Data Solutions. He serves as a Senior Lecturer and Researcher at Hogeschool van Arnhem en Nijmegen. As educator, innovator, and community builder, Witek seamlessly combines academic rigor with real-world application and collaboration. He has a rich background in Web Development, Machine Learning, AI, and Quantitative Data Analysis</td>
+      <td>Navigate the vast landscape of Computer Simulation, uncover its myriad applications, and comprehend its crucial contribution to data-driven decision-making. This is your chance to dive beneath the surface and truly understand the power of simulation in today's data-driven world.</td>
     </tr>
     <tr>
       <th scope="row">Topic 3</th>
