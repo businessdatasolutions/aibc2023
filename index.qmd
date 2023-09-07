@@ -105,12 +105,12 @@ Meet us on Thursday November 9, 2023 at Mpac Langen in Wijchen.
     <tr>
       <th scope="row">Computer vision with YOLO</th>
       <td><a href="#mathijsvdvegt">Mathijs van der Vegt</a> is a renowned Automation Specialist with expertise in robotics, machine vision, machine learning, and the internet of things. Over the years, he has been a dedicated educator, sharing his knowledge with students across various universities. </td>
-      <td><span>Embark on a journey tailored for "Data Driven Decision Making" minor students with the "Computer Vision with Yolo" workshop. Under Mathijs's expert tutelage, delve into the world of computer vision, unravel the Yolo framework's complexities, and grasp its real-world applications. This workshop promises to arm you with the tools needed to seamlessly incorporate computer vision into your data-centric projects.</span></td>
+      <td><span>Under Mathijs's expert tutelage, delve into the world of computer vision, unravel the Yolo framework's complexities, and grasp its real-world applications. This workshop promises to arm you with the tools needed to seamlessly incorporate computer vision into your data-centric projects.</span></td>
     </tr>
     <tr>
       <th scope="row">Modeling complex systems</th>
       <td><a href="#witektenhove">Witek ten Hove</a> is a Data Scientist and owner of Ten Hove Business Data Solutions. He serves as a Senior Lecturer and Researcher at Hogeschool van Arnhem en Nijmegen. Described as a blend of educator, innovator, and community builder, Witek seamlessly combines academic rigor with real-world application and collaboration. He has a rich background in Web Development, Machine Learning, AI, and Quantitative Data Analysis</td>
-      <td>Explore the Realm of Computer Simulation. We invite you to a specialized workshop on "Computer Simulation". Navigate the vast landscape of simulation, uncover its myriad applications, and comprehend its crucial contribution to data-driven decision-making. This is your chance to dive beneath the surface and truly understand the power of simulation in today's data-driven world.</td>
+      <td>Explore the Realm of Computer Simulation. Navigate the vast landscape of simulation, uncover its myriad applications, and comprehend its crucial contribution to data-driven decision-making. This is your chance to dive beneath the surface and truly understand the power of simulation in today's data-driven world.</td>
     </tr>
     <tr>
       <th scope="row">Topic 3</th>
