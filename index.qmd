@@ -115,7 +115,7 @@ Meet us on Moday October 30, 2023 at [Mpac](https://mpac-group.com/){target="_bl
     <tr>
       <th scope="row">Topic 3</th>
       <td>To be announced</td>
-      <td>Text</td>
+      <td>...</td>
     </tr>
   </tbody>
 </table>
