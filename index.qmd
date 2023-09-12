@@ -32,7 +32,7 @@ editor: visual
 ```
 ## Dates and location {.mt-5}
 
-Meet us on Thursday November 9, 2023 at Mpac Langen in Wijchen.
+Meet us on Moday October 30, 2023 at [Mpac](https://mpac-group.com/){target="_blank"} in Wijchen.
 
 ```{=html}
 <div class="ratio ratio-16x9">
@@ -53,17 +53,17 @@ Meet us on Thursday November 9, 2023 at Mpac Langen in Wijchen.
   </thead>
   <tbody>
     <tr>
-      <th scope="row">9:30h</th>
+      <th scope="row">9:00h</th>
       <td>Reception and welcome</td>
       <td>Text</td>
     </tr>
     <tr>
-      <th scope="row">10:15h</th>
+      <th scope="row">9:30h</th>
       <td>Company tour</td>
       <td>Text</td>
     </tr>
     <tr>
-      <th scope="row">11:00h</th>
+      <th scope="row">10:30h</th>
       <td><a href="#workshops">Workshops</a></td>
       <td>Text</td>
     </tr>
@@ -78,7 +78,7 @@ Meet us on Thursday November 9, 2023 at Mpac Langen in Wijchen.
       <td>Text</td>
     </tr>
     <tr>
-      <th scope="row">16:30h</th>
+      <th scope="row">17:00h</th>
       <td>Demo market with drinks</td>
       <td>Text</td>
     </tr>
@@ -120,8 +120,6 @@ Meet us on Thursday November 9, 2023 at Mpac Langen in Wijchen.
   </tbody>
 </table>
 ```
-
-
 ## Challenges {#challenges .mt-5}
 
 Quality monitoring:
