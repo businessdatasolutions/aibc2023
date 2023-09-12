@@ -55,32 +55,32 @@ Meet us on Moday October 30, 2023 at [Mpac](https://mpac-group.com/){target="_bl
     <tr>
       <th scope="row">9:00h</th>
       <td>Reception and welcome</td>
-      <td><<Parkeergelegenheid, bereikbaarheid OV>></td>
+      <td>Parkeergelegenheid, bereikbaarheid OV</td>
     </tr>
     <tr>
       <th scope="row">9:30h</th>
       <td>Company tour</td>
-      <td><<Veiligheidsvoorschriften>></td>
+      <td>Veiligheidsvoorschriften</td>
     </tr>
     <tr>
       <th scope="row">10:30h</th>
       <td><a href="#workshops">Workshops</a></td>
-      <td><<Algemene beschrijving doelen en plek binnen de BC>></td>
+      <td>Algemene beschrijving doelen en plek binnen de BC</td>
     </tr>
     <tr>
       <th scope="row">13:00h</th>
       <td>Lunch</td>
-      <td><<Dieetwensen>></td>
+      <td>Dieetwensen</td>
     </tr>
     <tr>
       <th scope="row">14:00h</th>
       <td><a href="#challenges">Challenges</a></td>
-      <td><<Algemene beschrijving doelen en plek binnen de BC>></td>
+      <td>Algemene beschrijving doelen en plek binnen de BC</td>
     </tr>
     <tr>
       <th scope="row">17:00h</th>
       <td>Demo market with drinks</td>
-      <td><<Algemene beschrijving doelen en plek binnen de BC>></td>
+      <td>Algemene beschrijving doelen en plek binnen de BC</td>
     </tr>
     <tr>
       <th scope="row">18:00h</th>
