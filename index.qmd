@@ -32,7 +32,7 @@ editor: visual
 ```
 ## Dates and location {.mt-5}
 
-Meet us on Moday October 30, 2023 at [Mpac](https://mpac-group.com/){target="_blank"} in Wijchen.
+Meet us on Monday October 30, 2023 at [Mpac](https://mpac-group.com/){target="_blank"} in Wijchen.
 
 ```{=html}
 <div class="ratio ratio-16x9">
