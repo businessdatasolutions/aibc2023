@@ -80,7 +80,7 @@ Meet us on Monday October 30, 2023 at [Mpac](https://mpac-group.com/){target="_b
     <tr>
       <th scope="row">17:00h</th>
       <td>Demo market with drinks</td>
-      <td>Algemene beschrijving doelen en plek binnen de BC</td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">18:00h</th>
