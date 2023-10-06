@@ -1,6 +1,6 @@
 ---
 title: "AI Boot Camp 2023"
-subtitle: "Sponsored and hosted by <a href='https://mpac-group.com/' target='_blank' style='color: #ffd6e5; font-weight: bold;'>MPAC</a>"
+subtitle: "Sponsored and hosted by <a href='https://mpac-group.com/' target='_blank' style='color: #ffd6e5; font-weight: bold;'>Mpac</a>"
 author: ""
 format:
   html:
@@ -24,7 +24,7 @@ editor: visual
       <div class="card-body">
         <h5 class="card-title">Welcome @ AIBC2023!</h5>
         <p class="card-text lead">Welcome to the AI Boot Camp 2023 edition! Get ready to unlock your AI talents and embark on a transformative journey towards becoming a professional in the field. Our bootcamp offers live workshops with industry experts, industry-relevant projects and plenty of opportunity to experiment. Connect with peers, demonstrate your AI abilities, and follow your personal interests. Join us to discover the world of AI!</p>
-        <p class="card-text"><small class="text-muted">This year's edition of the AIBootcamp is sponsored and hosted by <a href="https://mpac-group.com/" target="_blank">MPAC</a></small></p>
+        <p class="card-text"><small class="text-muted">This year's edition of the AIBootcamp is sponsored and hosted by <a href="https://mpac-group.com/" target="_blank">Mpac</a></small></p>
       </div>
     </div>
   </div>
@@ -55,27 +55,27 @@ Meet us on Monday October 30, 2023 at [Mpac](https://mpac-group.com/){target="_b
     <tr>
       <th scope="row">9:00h</th>
       <td>Reception and welcome</td>
-      <td>Parkeergelegenheid, bereikbaarheid OV</td>
+      <td>Parking is available at Mpac. Wijchen is accessible by train, and Mpac is just a 20-minute walk from the train station. Additionally, there are bus connections.</td>
     </tr>
     <tr>
       <th scope="row">9:30h</th>
       <td>Company tour</td>
-      <td>Veiligheidsvoorschriften</td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">10:30h</th>
       <td><a href="#workshops">Workshops</a></td>
-      <td>Algemene beschrijving doelen en plek binnen de BC</td>
+      <td>In addition to students from the Minor Data Driven Decision Making, staff from Mpac will also participate in the workshops and the challenges in the afternoon.</td>
     </tr>
     <tr>
       <th scope="row">13:00h</th>
       <td>Lunch</td>
-      <td>Dieetwensen</td>
+      <td>If you have special dietary needs, kindly inform Witek ten Hove. Vegetarian options will be offered.</td>
     </tr>
     <tr>
       <th scope="row">14:00h</th>
       <td><a href="#challenges">Challenges</a></td>
-      <td>Algemene beschrijving doelen en plek binnen de BC</td>
+      <td>Participants will create tangible demos that Mpac can use throughout the rest of their anniversary week to inspire their own stakeholders (employees and business partners).</td>
     </tr>
     <tr>
       <th scope="row">17:00h</th>
@@ -113,9 +113,9 @@ Meet us on Monday October 30, 2023 at [Mpac](https://mpac-group.com/){target="_b
       <td>Navigate the vast landscape of Computer Simulation, uncover its myriad applications, and comprehend its crucial contribution to data-driven decision-making. This is your chance to dive beneath the surface and truly understand the power of simulation in today's data-driven world.</td>
     </tr>
     <tr>
-      <th scope="row">Topic 3</th>
-      <td>To be announced</td>
-      <td>...</td>
+      <th scope="row">Workflow Automation using NLP</th>
+      <td><a href="#guusparis">Guus Paris</a> is an expert in robotics and artificial intelligence, currently working with The Robot Engineers where he develops medium-scale turn-key solutions and offers consultancy in industrial robotics, vision, and AI. He also serves as a tutor and coach at De Haagse Hogeschool / The Hague University of Applied Sciences, mentoring students in smart manufacturing and robotics. Recently, Guus played a leadership role at RoboHouse, managing the development team at TU-Delft's valorisation centre for robotics.</td>
+      <td>Harness the capabilities of Natural Language Processing (NLP) to streamline processes, enhance efficiency, and transform the way you manage tasks. Discover how NLP can be your game-changer in automating routine tasks and optimizing workflows."</td>
     </tr>
   </tbody>
 </table>
@@ -138,7 +138,9 @@ Product enhancements:
 
 -   Utilizing algorithms to explore multiple possibilities for product positioning.
 
--   Adjusting the control system based on real-time data. - When products enter the transport belt randomly, using algorithms to determine the most efficient formation for optimal throughput.
+-   Adjusting the control system based on real-time data.
+
+-   Using algorithms to determine the most efficient formation of products entering a transportation belt system for optimal throughput.
 
 ## Experts {.mt-5}
 
@@ -166,6 +168,19 @@ Product enhancements:
       </div>
       <div class="card-footer">
       <a href="https://www.linkedin.com/in/mathijs-van-der-vegt-26352b33/" target="_blank" title="LinkedIn" class="btn btn-linkedin"><i class="bi bi-linkedin"></i> LinkedIn</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col" id="guusparis">
+    <div class="card h-100">
+      <img src="https://media.licdn.com/dms/image/C5603AQHTDrrc_zwh5w/profile-displayphoto-shrink_800_800/0/1540828153516?e=1700697600&v=beta&t=cL3HER5D3pC8SPYs08tEk79XnxcTSyI_HwYt2O-pXi8" class="img-thumbnail card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Guus Paris</h5>
+        <p class="card-text">Robotics & AI specialist at The Robot Engineers</p>
+      </div>
+      <div class="card-footer">
+      <a href="https://www.linkedin.com/in/guusparis/" target="_blank" title="LinkedIn" class="btn btn-linkedin"><i class="bi bi-linkedin"></i> LinkedIn</a>
       </div>
     </div>
   </div>
